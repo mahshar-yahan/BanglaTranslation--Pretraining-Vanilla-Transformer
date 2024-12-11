@@ -21,5 +21,4 @@ The Vanilla Transformer model is designed to translate text from one language to
 1. Clone this repository:
 
 ```bash
-git clone [https://github.com/yourusername/vanilla-transformer-bangla-translation.git
-](https://github.com/mahshar-yahan/BanglaTranslation--Pretraining-Vanilla-Transformer.git)
+git clone https://github.com/mahshar-yahan/BanglaTranslation--Pretraining-Vanilla-Transformer.git
